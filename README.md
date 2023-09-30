@@ -1,10 +1,10 @@
-### Arkinux
+# Arkinux
 im a developer bruh
 
-##Coding skills
+## **CODING SKILLS**
 
-##EXPERIENCED
+### **EXPERIENCED**
 
-##PROFICIENT
+### **PROFICIENT**
 
-##Still learning...
+### **Still learning...**
